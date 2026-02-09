@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @shivani8882
-- 👀 I’m interested in Web Development
+- 👀 I’m interested in JAVA Development
 - 🌱 I’m currently learning MERN Stack
 - 📫 How to reach me shivanijha8882@gmail.com
 
